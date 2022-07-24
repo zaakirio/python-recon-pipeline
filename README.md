@@ -1,5 +1,6 @@
 # Reconnaissance Pipeline (WIP)
-
+## Requirements
+Python Version 10.7.4
 ## Installation
 1. `apt install pipenv`
 2. To run the pipelines, you need to set your `PYTHONPATH` environment variable to the path of this project on disk by adding `export PYTHONPATH=/path/to/recon-pipeline` to your `.bashrc`   
